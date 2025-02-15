@@ -1,13 +1,18 @@
+
 #include <Arduino.h>
+#include <heltec.h>
 
 
-void setup() {
-  pinMode(35, OUTPUT);
+
+
+void setup()
+{
 }
 
-void loop() {
-  digitalWrite(35, HIGH);
-  delay(100);
-  digitalWrite(35, LOW);
-  delay(100);
+
+void loop()
+{
 }
+
+
+

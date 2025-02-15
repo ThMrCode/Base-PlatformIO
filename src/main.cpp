@@ -3,8 +3,6 @@
 #include <heltec.h>
 
 
-
-
 void setup()
 {
 }
